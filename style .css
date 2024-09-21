@@ -1,0 +1,175 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.s1{
+    margin-left: 900px;
+}
+.season1{
+     
+    display: flex;
+
+}
+
+.s1-img{
+    margin: 50px;
+    border-radius: 16px;
+}
+
+.s1-ep{
+    display: flex;
+}
+
+.s1-title1{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;   
+}
+
+
+.s1-title2{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s1-title3{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s1-title4{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+
+.season2{
+    display: flex;
+}
+
+.s2{
+    margin-left: 425px;
+}
+
+.s2-img{
+    margin: 40px;
+    border-radius: 16px;
+}
+
+.s2-ep{
+    display: flex;
+}
+
+.s2-title1{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s2-title2{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s2-title3{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s2-title4{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.season3{
+    display: flex;
+}
+
+.s3{
+    margin-left: 900px;
+}
+
+.s3-img{
+    margin: 40px;
+    margin-top: 160px;
+    border-radius: 16px;
+}
+
+.s3-ep{
+    display: flex;
+}
+
+.s3-title1{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s3-title2{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s3-title3{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s3-title4{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.season4{
+    display: flex;
+}
+
+.s4{
+    margin-left: 550px;
+}
+
+.s4-img{
+    margin: 40px;
+    border-radius: 16px;
+    }
+
+    .s4-ep{
+        display: flex;
+    }
+
+    .s4-title1{
+        border: 2px solid black;
+        width: 176px;
+        margin: 5px;
+    }
+
+.s4-title2{
+    border: 2px solid black;
+    width: 180px;
+    margin: 5px;
+}
+
+.s4-title3{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
+
+.s4-title4{
+    border: 2px solid black;
+    width: 176px;
+    margin: 5px;
+}
