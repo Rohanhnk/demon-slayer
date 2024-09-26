@@ -24,30 +24,23 @@ h1{
     display: flex;
 }
 
-.s1-title1{
+.s1-title{
     border: 2px solid black;
     width: 176px;
-    margin: 5px;   
+    margin: 5px;  
+    border-radius: 20px; 
+    overflow: hidden;
+}
+
+.s1-title img{
+    width: 100%; 
+    height: 100px;
+            object-fit: fill;
 }
 
 
-.s1-title2{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
 
-.s1-title3{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
 
-.s1-title4{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
 
 
 .season2{
@@ -65,31 +58,14 @@ h1{
 
 .s2-ep{
     display: flex;
-}
+} 
 
-.s2-title1{
+.s2-title{
     border: 2px solid black;
     width: 176px;
     margin: 5px;
 }
 
-.s2-title2{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
-
-.s2-title3{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
-
-.s2-title4{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
 
 .season3{
     display: flex;
@@ -109,29 +85,13 @@ h1{
     display: flex;
 }
 
-.s3-title1{
+.s3-title{
     border: 2px solid black;
     width: 176px;
     margin: 5px;
 }
 
-.s3-title2{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
 
-.s3-title3{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
-
-.s3-title4{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
 
 .season4{
     display: flex;
@@ -150,26 +110,10 @@ h1{
         display: flex;
     }
 
-    .s4-title1{
+    .s4-title{
         border: 2px solid black;
         width: 176px;
         margin: 5px;
     }
 
-.s4-title2{
-    border: 2px solid black;
-    width: 180px;
-    margin: 5px;
-}
 
-.s4-title3{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
-
-.s4-title4{
-    border: 2px solid black;
-    width: 176px;
-    margin: 5px;
-}
