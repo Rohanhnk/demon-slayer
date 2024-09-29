@@ -154,24 +154,24 @@ font-weight: bold;
     font-weight: bold;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 769px) {
 .s1{    
-margin-left:700px;
+margin-left:640px;
 }
 .s2{
-margin-left:250px; 
+margin-left:170px; 
 }
 .s3{
-margin-left: 700px;
+margin-left: 630px;
 }
 .s4{
-margin-left: 370px;
+margin-left: 290px;
 }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1025px) {
     .s1{
-margin-left: 820px;
+margin-left: 800px;
     }
     .s2{
         margin-left: 355px;
