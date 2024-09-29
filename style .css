@@ -6,9 +6,7 @@ h1{
     text-align: center;
 }
 
-.s1{
-    margin-left: 900px;
-}
+
 .season1{
      
     display: flex;
@@ -23,6 +21,7 @@ h1{
 .s1-ep{
     display: flex;
 }
+
 
 .s1-title{
     border: 2px solid black;
@@ -49,9 +48,7 @@ font-weight: bold;
     display: flex;
 }
 
-.s2{
-    margin-left: 425px;
-}
+
 
 .s2-img{
     margin: 40px;
@@ -88,9 +85,7 @@ font-weight: bold;
     display: flex;
 }
 
-.s3{
-    margin-left: 900px;
-}
+
 
 .s3-img{
     margin: 40px;
@@ -127,9 +122,7 @@ font-weight: bold;
     display: flex;
 }
 
-.s4{
-    margin-left: 550px;
-}
+
 
 .s4-img{
     margin: 40px;
@@ -160,3 +153,34 @@ font-weight: bold;
     transition: all 0.3s;
     font-weight: bold;
 }
+
+@media screen and (min-width: 992px) {
+.s1{    
+margin-left:700px;
+}
+.s2{
+margin-left:250px; 
+}
+.s3{
+margin-left: 700px;
+}
+.s4{
+margin-left: 370px;
+}
+}
+
+@media screen and (min-width: 1200px) {
+    .s1{
+margin-left: 820px;
+    }
+    .s2{
+        margin-left: 355px;
+    }
+    .s3{
+    margin-left: 820px;
+    }
+    .s4{
+        margin-left: 460px;
+    }
+}
+
