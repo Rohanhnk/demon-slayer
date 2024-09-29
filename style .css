@@ -39,6 +39,12 @@ h1{
   object-fit: fill;
 }
 
+.s1-title :hover{
+transform: scale(1.2);
+transition: all 0.3s;
+font-weight: bold;
+}
+
 .season2{
     display: flex;
 }
@@ -69,6 +75,12 @@ h1{
     width: 100%; 
     height: 100px;
   object-fit:fill;
+}
+
+.s2-title :hover{
+    transform: scale(1.2);
+    transition: all 0.3s;
+    font-weight: bold;
 }
 
 
@@ -105,7 +117,11 @@ h1{
   object-fit: fill;
 }
 
-
+.s3-title :hover{
+    transform: scale(1.2);
+    transition: all 0.3s;
+    font-weight: bold;
+}
 
 .season4{
     display: flex;
@@ -139,4 +155,8 @@ h1{
       object-fit: fill;
     }
 
-
+.s4-title :hover{
+    transform: scale(1.2);
+    transition: all 0.3s;
+    font-weight: bold;
+}
